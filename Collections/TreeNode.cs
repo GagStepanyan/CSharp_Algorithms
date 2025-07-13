@@ -1,4 +1,4 @@
-namespace Implementations.BSTImplement;
+namespace Implementations.Trees;
 
 class TreeNode
 {
